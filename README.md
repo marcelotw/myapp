@@ -1,5 +1,5 @@
-# Comunnik
+# Communik
 
-Flutter application Communk
+Flutter application Communik
 
 
